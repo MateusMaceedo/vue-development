@@ -1,4 +1,4 @@
-<img class="hero-logo" src="/images/logo.png" alt="logotipo da vue">
+<img src="https://vuejs.org/images/logo.png" width="215" height="215">
 
 > ##### Vue.js é um framework para criação de componentes reutilizáveis, inclusive para criação de SPA's (Single Page Applications).
 

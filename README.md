@@ -1,4 +1,7 @@
+<h1 align="center">
 <img src="https://vuejs.org/images/logo.png" width="215" height="215">
+ <br>
+</h1>
 
 > ##### Vue.js é um framework para criação de componentes reutilizáveis, inclusive para criação de SPA's (Single Page Applications).
 
